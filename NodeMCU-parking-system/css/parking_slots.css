@@ -1,0 +1,24 @@
+
+body{
+    
+    background-image:url('http://192.168.182.107/NodeMCU-parking-system/images/parking_slots.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;   
+    font-family: Courier New, "Lucida Console";  
+    color: blue;
+    position: relative;
+}
+.st{
+    position: absolute;
+    top: 0px;
+    left: 410px;
+    width: 200px;
+    height: 350px;
+}
+.nd{
+    position: absolute;
+    top: 0px;
+    left: 780px;
+    width: 200px;
+    height: 350px;
+}
